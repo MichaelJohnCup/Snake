@@ -1,0 +1,14 @@
+C:\Project\Had\Snake\Snake\bin\Release\net8.0\Snake.exe
+C:\Project\Had\Snake\Snake\bin\Release\net8.0\Snake.deps.json
+C:\Project\Had\Snake\Snake\bin\Release\net8.0\Snake.runtimeconfig.json
+C:\Project\Had\Snake\Snake\bin\Release\net8.0\Snake.dll
+C:\Project\Had\Snake\Snake\bin\Release\net8.0\Snake.pdb
+C:\Project\Had\Snake\Snake\obj\Release\net8.0\Snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Had\Snake\Snake\obj\Release\net8.0\Snake.AssemblyInfoInputs.cache
+C:\Project\Had\Snake\Snake\obj\Release\net8.0\Snake.AssemblyInfo.cs
+C:\Project\Had\Snake\Snake\obj\Release\net8.0\Snake.csproj.CoreCompileInputs.cache
+C:\Project\Had\Snake\Snake\obj\Release\net8.0\Snake.dll
+C:\Project\Had\Snake\Snake\obj\Release\net8.0\refint\Snake.dll
+C:\Project\Had\Snake\Snake\obj\Release\net8.0\Snake.pdb
+C:\Project\Had\Snake\Snake\obj\Release\net8.0\Snake.genruntimeconfig.cache
+C:\Project\Had\Snake\Snake\obj\Release\net8.0\ref\Snake.dll
